@@ -34,8 +34,33 @@
 
 ///-------/// --------------------- Counting Operation.
 
-// --------------------- Third Approach
-// --------------------- Third Approach
+// --------------------- fourth Approach
+
+// const countUpAndDown = (n) => {
+//   console.log('Going up!');
+
+//   for (let i = 0; i < n; i++) {
+//     console.log(i);
+//   }
+//   console.log('At the top \n Going Down...');
+//   for (let j = n - 1; j >= 0; j--) {
+//     console.log(j);
+//   }
+//   console.log('Back Down. Bye!');
+// };
+
+// --------------------- fifth Approach
+
+// this is O(n2)
+
+// const printAllPairs = (n) => {
+//   for (let i = 0; i < n; i++) {
+//     for (let j = 0; j < n; j++) {
+//       console.log(j, i);
+//     }
+//   }
+// };
+// printAllPairs(5);
 // --------------------- Third Approach
 // --------------------- Third Approach
 // --------------------- Third Approach
